@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4cc3b62-4edd-416b-ac29-41cabef6721d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="271M6rYU3T9cTH6szlB1qw7WtoO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Users\Rakks\Desktop\ReactScanner\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rakks\Desktop\softscanner.gui.tracing.eventBased.widgetOriented-main - Copie\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4cc3b62-4edd-416b-ac29-41cabef6721d" name="Changes" comment="" />
+      <created>1648482966925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648482966925</updated>
+      <workItem from="1648482968025" duration="738000" />
+      <workItem from="1648764749428" duration="1407000" />
+      <workItem from="1651159551779" duration="11421000" />
+      <workItem from="1651236117420" duration="2103000" />
+      <workItem from="1651584480404" duration="18073000" />
+      <workItem from="1651755051446" duration="1432000" />
+      <workItem from="1651756498218" duration="2938000" />
+      <workItem from="1651761236373" duration="10946000" />
+      <workItem from="1651862975687" duration="2333000" />
+      <workItem from="1651948719486" duration="1573000" />
+      <workItem from="1651972903118" duration="1412000" />
+      <workItem from="1652056602034" duration="1647000" />
+      <workItem from="1652097682758" duration="12073000" />
+      <workItem from="1652132647905" duration="7207000" />
+      <workItem from="1652259991520" duration="3184000" />
+      <workItem from="1652264402531" duration="64000" />
+      <workItem from="1652270602607" duration="1306000" />
+      <workItem from="1652701629516" duration="792000" />
+      <workItem from="1653078590393" duration="773000" />
+      <workItem from="1653225968929" duration="9832000" />
+      <workItem from="1653277777940" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
